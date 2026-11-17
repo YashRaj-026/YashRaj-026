@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" alt="Coder Laptop Animation" />
+  <img src="https://media.giphy.com/media/bJ4TVNYNUympPgcpem/giphy.gif" width="400" alt="Glitch Hacker Animation" />
 </p>
 
 <p align="center">
